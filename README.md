@@ -87,8 +87,8 @@ Tools & Technologies
 - Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Volatility-Forecasting.git
-cd Volatility-Forecasting
+git clone https://github.com/yourusername/Short-Term-Volatility-Prediction-in-Financial-Markets.git
+cd Short-Term-Volatility-Prediction-in-Financial-Markets
 ```
 
 ### Install dependencies:
